@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# lulnazi
+BOT WHATSAPP LULNAZI
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -9,7 +9,6 @@ Siapin alat dan bahannya.
 > internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
 ```
 
 ### Cara Installnya
@@ -26,7 +25,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| LulNazi Bot       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -49,4 +48,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/lulnazi666)
